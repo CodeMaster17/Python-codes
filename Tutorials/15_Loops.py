@@ -26,3 +26,7 @@ for nos in range(5):
     print(nos);
     # to get output 1, 2, 3, 4, 5
     # print(nos + 1);
+
+
+# break keyword is used to to get out of the loop
+# continue is used to skip the next iteration
